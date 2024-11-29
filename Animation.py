@@ -50,7 +50,7 @@ root.title("Key Generator")
 root.geometry("800x600")
 
 
-bg_image = tk.PhotoImage(file="Csgo2.jpg ")
+bg_image = tk.PhotoImage(file="Csgo2.jpg")
 bg_label = tk.Label(root, image=bg_image)
 bg_label.place(relwidth=1, relheight=1)
 
